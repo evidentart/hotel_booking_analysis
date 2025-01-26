@@ -42,8 +42,3 @@ The following algorithms were implemented and analyzed using **WEKA**:
 - Identified high cancellation segments and seasonal booking trends.
 - Optimized room allocation and pricing strategies based on clustering and regression analysis.
 
-
-## Key Insights
-
-- Identified high cancellation segments and seasonal booking trends.
-- Optimized room allocation and pricing strategies based on clustering and regression analysis.
