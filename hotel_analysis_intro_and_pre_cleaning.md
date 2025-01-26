@@ -102,6 +102,7 @@ This section outlines the processes involved in data consolidation, cleaning, tr
 
 
 -	Database connection and import of excel file
+  
       ![Picture1](https://github.com/user-attachments/assets/7ba24285-74a0-40cf-940e-abd7fba44e1d)
 
 -	Creation of tables and validating
@@ -113,7 +114,8 @@ This section outlines the processes involved in data consolidation, cleaning, tr
       ![Picture3](https://github.com/user-attachments/assets/38fcd671-8e28-47c2-a7a2-7f020b24493a)
 
 - The data was sourced from a single CSV file, structured and altered as needed before being successfully imported into the PostgreSQL database without the need for merging
-      ![Picture4](https://github.com/user-attachments/assets/054270cf-681d-49c3-a0ac-ceb7700a423c)
+ 
+     ![Picture4](https://github.com/user-attachments/assets/054270cf-681d-49c3-a0ac-ceb7700a423c)
 
 
 ### Data Cleaning
@@ -139,6 +141,7 @@ This section outlines the processes involved in data consolidation, cleaning, tr
        ![Picture7](https://github.com/user-attachments/assets/cdb80a47-f787-4f2a-8893-f82d96594cf0)
 
 -	 Data Reduction stratified sampling
+	 
         ![Picture8](https://github.com/user-attachments/assets/dfc13dd5-d765-4d04-b7c0-f09707cd88e2)
 
 
